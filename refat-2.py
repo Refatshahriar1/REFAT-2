@@ -37,18 +37,18 @@ header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 'x-f
 #logo Yaha Sy Lagalo Guyss
 
 logo = """
-\033[1;92m______ ___________
+\033[1;92m______ ______________
 | ___ \  ___|  ___/ _ \_   _|
 | |_/ / |__ | |_ / /_\ \| |  
 |    /|  __||  _||  _  || |  
 | |\ \| |___| |  | | | || |  
 \_| \_\____/\_|  \_| |_/\_/  
                           
-\n\033[0m------------------
+\n\033[0m-------------------------------
 \033[1;93mAuthor \033[1;93m: REFAT SHAHRIAR
 \033[1;93mFb \033[1;93m: REFAT SHAHRIAR
-\033[1;93mDisclaimer \033[1;93m: Its REFAT FUCK YOUR SYSTEM
-\033[0m--------------------
+\033[1;93mDisclaimer \033[1;93m: Its REFAT FUCK YOUR SYESTEM
+\033[0m---------------------------------
 
 """
 
